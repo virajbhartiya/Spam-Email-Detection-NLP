@@ -51,6 +51,8 @@ In this part we will see the project code divided to sections as follows:
 
 - Section 2 | The Model :<br>
   The dataset is ready for training, so we create a naive classifier using scikit-learn and thin fit it to the data, and finally we evaluate the model by getting accuracy, classification report and confusion matrix<br>
+  <!-- display the confision matrix.png -->
+  <img src="images/confusion_matrix.png" alt="confusion matrix" width="500" height="500"><br><br>
 
 <!-- INSTALLATION -->
 
